@@ -12,12 +12,12 @@ int main()
         cout<<"digite um numeros: "<<endl;
         cin>>par_impar;
      
-      if(par_impar % 2 == 0) {
-        cout<<"esse numero é par"<<endl;
-      }
-      else{
-        cout<<"esse numero é impar"<<endl;
-      }
+    if(par_impar % 2 == 0) {
+        cout<<par_impar<<" É par"<<endl;
+    }
+    else{
+        cout<<par_impar<<" É impar"<<endl;
+    }
     
     }
     
